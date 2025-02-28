@@ -1,0 +1,6 @@
+summary.tm              Summarizing Trimmed Means Linear Model fits:
+tm                      Fitting Trimmed Mean Linear Models:
+tm_bias                 Calculating Bias For Trimmed Mean Linear
+                        Models:
+tmsens-package          tmsens: Sensitivity Analysis Using the Trimmed
+                        Mean Estimator
